@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of shebaoting/flarum-rss.** Not for installation: use [Packagist](https://packagist.org/packages/shebaoting/flarum-rss) or the [upstream repository](https://github.com/shebaoting/flarum-rss).
 
-**0** versions archived · Latest: [`2.0.3`](https://github.com/flarchive/shebaoting-flarum-rss/tree/archive/v2.0.3) · License: `MIT` · Flarum: `^2.0.0-beta`
+**6** versions archived · Latest: [`2.0.3`](https://github.com/flarchive/shebaoting-flarum-rss/tree/archive/v2.0.3) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.3.0` | 2024-09-07 | `^1.2.0` | [Browse](https://github.com/flarchive/shebaoting-flarum-rss/tree/archive/v0.3.0) |
+| `0.3.1` | 2024-09-07 | `^1.2.0` | [Browse](https://github.com/flarchive/shebaoting-flarum-rss/tree/archive/v0.3.1) |
+| `2.0.0` | 2026-06-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-rss/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-06-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-rss/tree/archive/v2.0.1) |
+| `2.0.2` | 2026-06-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-rss/tree/archive/v2.0.2) |
+| `2.0.3` | 2026-06-27 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/shebaoting-flarum-rss/tree/archive/v2.0.3) |
 
 Catalog entry: [packages/shebaoting-flarum-rss.json](https://github.com/flarchive/archive-index/blob/main/packages/shebaoting-flarum-rss.json)
 
